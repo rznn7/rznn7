@@ -1,16 +1,21 @@
-## Hi there 👋
+## Current Projects
+🦀 **truff** - A minimal component-based reactive frontend framework for Rust/WASM  
+🥷 **hm-samurai** - Game prototype
 
-<!--
-**rznn7/rznn7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Games & Tools
+⚓ **echoes-from-below** - Survival / Resource management game built with Unity  
+🐛 **petri-rs** - Conway's Game of Life implementation with Rust  
+🏃‍♀️ **platformer-movements** - Unity 2D platformer mechanics  
+🖌️ **3d-pixel-art-environment-unity-urp** - 3D pixel art shader experiments
 
-Here are some ideas to get you started:
+## Tech Stack
+💻 **Environment**  
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=debian,i3,wezterm,neovim,firefox)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👔 **Professional**  
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=ts,angular,reactivex,testinglibrary,jest,eslint)  
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=java,spring)
+
+🎯 **Personal & Gamedev**  
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=rust,go)  
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=godot,unity,blender)
