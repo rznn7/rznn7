@@ -18,4 +18,4 @@
 
 🎯 **Personal & Gamedev**  
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=rust,go)  
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=godot,unity,blender)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=godot,unity,bevy,blender)
