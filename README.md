@@ -17,5 +17,5 @@
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=java,spring)
 
 🎯 **Personal & Gamedev**  
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=rust,go)  
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=rust)  
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=godot,unity,bevy,blender)
