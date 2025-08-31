@@ -10,7 +10,7 @@
 
 ## Tech Stack
 💻 **Environment**  
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=debian,i3,wezterm,neovim,firefox)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=arch,debian,i3,wezterm,neovim,firefox)
 
 👔 **Professional**  
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=ts,angular,reactivex,testinglibrary,jest,eslint)  
