@@ -9,9 +9,6 @@
 🖌️ **3d-pixel-art-environment-unity-urp** - 3D pixel art shader experiments
 
 ## Tech Stack
-💻 **Environment**  
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=arch,debian,i3,wezterm,neovim,firefox)
-
 👔 **Professional**  
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=ts,angular,reactivex,testinglibrary,jest,eslint)  
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=java,spring)
@@ -19,3 +16,6 @@
 🎯 **Personal & Gamedev**  
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=rust)  
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=godot,unity,bevy,blender)
+
+💻 **Environment**  
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=arch,debian,i3,wezterm,neovim,firefox)
