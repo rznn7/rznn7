@@ -1,6 +1,7 @@
-## Current Projects
+## Projects & Contributions
 🦀 **truff** - A minimal component-based reactive frontend framework for Rust/WASM  
-🥷 **hm-samurai** - Game prototype
+🥷 **hm-samurai** - Game prototype  
+💡 Contributing to open-source projects focused on TypeScript tooling and Node.js development
 
 ## Games & Tools
 ⚓ **echoes-from-below** - Survival / Resource management game built with Unity  
@@ -16,6 +17,3 @@
 🎯 **Personal & Gamedev**  
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=rust)  
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=godot,unity,bevy,blender)
-
-💻 **Environment**  
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=arch,debian,i3,wezterm,neovim,firefox)
