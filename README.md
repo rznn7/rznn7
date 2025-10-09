@@ -1,4 +1,4 @@
-## Projects & Contributions
+## Current projects & contributions
 🦀 **truff** - A minimal component-based reactive frontend framework for Rust/WASM  
 🥷 **hm-samurai** - Game prototype  
 💡 Contributing to open-source projects focused on TypeScript tooling and Node.js development
