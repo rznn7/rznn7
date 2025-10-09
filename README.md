@@ -1,7 +1,9 @@
 ## Current projects & contributions
+
+🔭 **nvm-pkpeek** - CLI tool for visualizing globally installed npm packages across nvm Node versions  
 🦀 **truff** - A minimal component-based reactive frontend framework for Rust/WASM  
 🥷 **hm-samurai** - Game prototype  
-💡 Contributing to open-source projects focused on TypeScript tooling and Node.js development
+💡 Contributing to open-source projects focused on TypeScript tooling and Node.js development  
 
 ## Games & Tools
 ⚓ **echoes-from-below** - Survival / Resource management game built with Unity  
