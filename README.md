@@ -1,8 +1,17 @@
-## Tech Stack
-👔 **Professional**  
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=ts,angular,reactivex,testinglibrary,vitest,eslint)  
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=java,spring)
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Liberation+Mono&size=16&pause=1000&color=F0F6FC&center=true&repeat=false&width=435&lines=Hey!+I'm+Gabriel" />
+<pre>
+💼 Front-end dev @ OPPSCIENCE
+💻 Typescript enjoyer, 🦀 Rust learner
+👨‍💻 Building games & tools in my free time
+🔨 Currently working on bb-dash (Bitbucket TUI)
+🎮 Games • ⌨️ Keebs • 🎵 Music
+</pre>
 
-🎯 **Personal & Gamedev**  
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=ts,vite,rust)  
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=godot,unity,bevy,blender)
+<img src="https://raw.githubusercontent.com/rznn7/rznn7/refs/heads/main/assets/cowboy-bebop-ed.gif" width="40%"/>
+
+[![](https://img.shields.io/badge/reddit-ff4500)](https://www.reddit.com/user/InformationCapable54)
+[![](https://img.shields.io/badge/itch.io-fa5c5c)](https://rznn7.itch.io)
+[![](https://img.shields.io/badge/bsky-006aff)](https://bsky.app/profile/rznn-dev.bsky.social)
+
+</div>
