@@ -8,8 +8,6 @@
 🎮 Games • ⌨️ Keebs • 🎵 Music
 </pre>
 
-<img src="https://raw.githubusercontent.com/rznn7/rznn7/refs/heads/main/assets/cowboy-bebop-ed.gif" width="40%"/>
-
 [![](https://img.shields.io/badge/itch.io-fa5c5c)](https://rznn7.itch.io)
 [![](https://img.shields.io/badge/bsky-006aff)](https://bsky.app/profile/rznn-dev.bsky.social)
 
