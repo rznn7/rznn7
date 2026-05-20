@@ -1,5 +1,4 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Liberation+Mono&size=16&pause=1000&color=F0F6FC&center=true&repeat=false&width=435&lines=Hey!+I'm+Gabriel" />
 <pre>
 💼 Front-end dev @ OPPSCIENCE
 💻 Typescript enjoyer, 🦀 Rust learner
