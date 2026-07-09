@@ -3,7 +3,6 @@
 💼 Front-end dev
 💻 Typescript enjoyer, 🦀 Rust learner
 👨‍💻 Building games & tools in my free time
-🔨 Currently working on bb-dash (Bitbucket TUI)
 🎮 Games • ⌨️ Keebs • 🎵 Music
 </pre>
 
